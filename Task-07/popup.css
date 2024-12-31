@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 80%;
+    padding: 8px;
+    background-color: #007bff;
+    color: white;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#weather-info {
+    margin-top: 15px;
+}
+
+#temp, #description, #humidity, #wind-speed {
+    font-size: 14px;
+    color: #333;
+    margin: 5px 0;
+}
+
+#weather-icon {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+}
