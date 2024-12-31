@@ -1,4 +1,4 @@
-# amfoss_tasks
+# Amfoss_Tasks
 ## SELF INTRO
 
 Hi, my name is Aaryan Ajeeth Kumar, and I am currently a first-year Computer Science Engineering student. Although my programming experience is primarily with Java, which I studied from 8th to 10th grade, I am eager to delve deeper into the world of coding. I am dedicated to enhancing my skills and pushing my limits in this ever-evolving field.
@@ -19,15 +19,14 @@ My primary interests include tackling new problems and staying abreast of the la
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 | Task List | Description | Status |
-| :-:       | :-:         | :-:    |
-| Task-00   | [Install Linux](https://github.com/ThePiR0/amfoss-tasks/tree/main/task-00)| Completed |
-| Task-01   | [Command Line Cup](https://github.com/ThePiR0/amfoss-tasks/tree/main/Task-1) | Completed |
+| Task-00   | [Install Linux](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-00)| Completed |
+| Task-01   | [Command Line Cup](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-01) | Completed |
 | Task-02   | [Pixelated Problem Solver](-)| Pending|
-| Task-03   | [Beat the Buttons](-) | Pending|
-| Task-04   | [Code The Puzzles](-)| Pending|
+| Task-03   | [Beat the Buttons](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-03) | Completed|
+| Task-04   | [Code The Puzzles](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-04)| Completed|
 | Task-05   | [Pokemon Rescue](-)| Pending|
 | Task-06   | [Flutter Jumpstart](-)| Pending|
-| Task-07   | [Weather Guardian](-)| Pending|
+| Task-07   | [Weather Guardian](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-07)| Completed|
 | Task-08   | [Compute Shader](-)| Pending|
 | Task-09   | [Operation Kernal](-)| Pending|
 
