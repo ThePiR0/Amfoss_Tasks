@@ -12,7 +12,7 @@ def calculate_from_image(image_path):
         results = []
         for expr in expressions:
             try:
-\                result = eval(expr)
+                result = eval(expr)
                 results.append((expr, result))
             except Exception as e:
                 results.append((expr, f"Error: {e}"))
