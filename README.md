@@ -23,7 +23,7 @@ My primary interests include tackling new problems and staying abreast of the la
 | Task-01   | [Command Line Cup](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-01) | Completed |
 | Task-02   | [Pixelated Problem Solver](-)| Pending|
 | Task-03   | [Beat the Buttons](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-03) | Completed|
-| Task-04   | [Code The Puzzles](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-04)| Completed|
+| Task-04   | [Code The Puzzles](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-04)| Partially Completed|
 | Task-05   | [Pokemon Rescue](-)| Pending|
 | Task-06   | [Flutter Jumpstart](-)| Pending|
 | Task-07   | [Weather Guardian](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-07)| Completed|
