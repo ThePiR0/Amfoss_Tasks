@@ -1,7 +1,7 @@
 # Amfoss_Tasks
 ## SELF INTRO
 
-Hi, my name is Aaryan Ajeeth Kumar, and I am currently a first-year Computer Science Engineering student. Although my programming experience is primarily with Java, which I studied from 8th to 10th grade, I am eager to delve deeper into the world of coding. I am dedicated to enhancing my skills and pushing my limits in this ever-evolving field.
+Hi, my name is Aaryan Ajeeth Kumar, and I am currently a first-year Computer Science Engineering student. Although my programming experience is primarily with Java, which I studied in 10th grade, I am eager to delve deeper into the world of coding. I am dedicated to enhancing my skills and pushing my limits in this ever-evolving field.
 
 ## INTROSPECTION
 
