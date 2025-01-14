@@ -21,7 +21,7 @@ My primary interests include tackling new problems and staying abreast of the la
 | Task List | Description | Status |
 | Task-00   | [Install Linux](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-00)| Completed |
 | Task-01   | [Command Line Cup](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-01) | Completed |
-| Task-02   | [Pixelated Problem Solver](-)| Pending|
+| Task-02   | [Pixelated Problem Solver](-)| Completed|
 | Task-03   | [Beat the Buttons](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-03) | Completed|
 | Task-04   | [Code The Puzzles](https://github.com/ThePiR0/amfoss_tasks/tree/main/Task-04)| Partially Completed|
 | Task-05   | [Pokemon Rescue](-)| Pending|
