@@ -2,6 +2,7 @@ import pytesseract
 from PIL import Image
 import re
 
+
 def calculate_from_image(image_path):
     try:
         image = Image.open(image_path)
