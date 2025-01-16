@@ -16,7 +16,14 @@ const soundMap = {
       playSound(soundKey);
     });
   });
-  
+
+
+ document.addEventListener("keydown", (event) => {
+    const soundKey = event.key; 
+    if (soundMap[soundKey]) {
+        playSound(soundKey);
+    }
+});
   
   function playSound(key) {
     const audio = new Audio(soundMap[key]);
