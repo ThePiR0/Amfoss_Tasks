@@ -7,7 +7,7 @@ chrome.runtime.onInstalled.addListener(() => {
 chrome.action.onClicked.addListener((tab) => {
   console.log('Extension icon clicked!');
 
-  fetchWeatherData('New York);
+  fetchWeatherData('New York');
 });
 
 function fetchWeatherData(location) {
